@@ -3,3 +3,9 @@
 * {
     font-family: "Outfit", sans-serif;
 }
+
+.theme-toggle {
+    color: gray;
+    margin: 20px;
+    scale: 0.8;
+}
